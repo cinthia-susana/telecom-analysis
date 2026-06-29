@@ -8,7 +8,7 @@ El análisis se basó en las siguientes bases de datos estructuradas:
 
 -usage.csv: Contiene el registro histórico de las interacciones de los usuarios. Incluye duración de las llamadas en minutos y la cantidad de los mensajes enviados.
 
-###Etapas de análisis
+*Etapas de análisis*
 
 El flujo de trabajo se desarrolló de la siguiente manera:
 
@@ -20,7 +20,7 @@ Análisis exploratorio de datos: Generación de distribuciones visuales (histogr
 
 Segmentación y conclusiones de negocio: Cruce de edad con variables de consumo para proponer el rediseño de planes comerciales y estrategias de control de fraude.
 
-###Guía de Reproducción Básica
+*Guía de Reproducción Básica*
 Para replicar los resultados y gráficas de este análisis, se recomienda seguir los siguientes pasos:
 
 -Ejecuta la primera celda de código para importar las librerías esenciales (pandas, numpy, seaborn y matplotlib.pyplot).
