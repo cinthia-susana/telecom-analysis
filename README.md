@@ -8,7 +8,7 @@ El análisis se basó en las siguientes bases de datos estructuradas:
 
 -usage.csv: Contiene el registro histórico de las interacciones de los usuarios. Incluye duración de las llamadas en minutos y la cantidad de los mensajes enviados.
 
-#Etapas de análisis#
+*Etapas de análisis*
 
 El flujo de trabajo se desarrolló de la siguiente manera:
 
